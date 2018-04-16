@@ -68,7 +68,7 @@ export default {
       errors:[],
       articles: [],
       articlesParams: {
-        apiKey: 'd2779aa7f9f44c2794e7818f3bf60aae',
+        apiKey: CONFIG_API_KEY,
         source: ''
       }
     }
